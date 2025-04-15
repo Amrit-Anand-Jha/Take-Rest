@@ -7,7 +7,7 @@ All you have to do now is decide how long of a break you want, go to your favori
 
 
 
-# Check it out now at [breaks.eu.org](https://breaks.eu.org)
+
 
 # Features
 - Custom break time
@@ -15,4 +15,3 @@ All you have to do now is decide how long of a break you want, go to your favori
 - Mobile-friendly
 - No ads or trackers
 
-> Inspired from Take a Five
