@@ -5,7 +5,7 @@
 Take controlled breaks and stop procrastinating forever. <br> <br>
 All you have to do now is decide how long of a break you want, go to your favorite website and take a break till your time's up.</p>
 
-https://user-images.githubusercontent.com/43648146/143237406-1f7c47f2-557c-442e-b789-299030dc7d96.mp4
+
 
 # Check it out now at [breaks.eu.org](https://breaks.eu.org)
 
